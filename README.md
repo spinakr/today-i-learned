@@ -8,13 +8,6 @@ A collection of more or less interesting write-ups on small things I learn day t
 
 ---
 
-### Categories
-
-* [Devops](#devops)
-* [React](#react)
-
----
-
 ### Devops
 
 - [empty](devops/empty.md)
@@ -22,4 +15,4 @@ A collection of more or less interesting write-ups on small things I learn day t
 
 ### React
 
-- [empty](react/empty.md)
+- [Passing all props to child component](react/passing-all-props-to-child-component.md)
