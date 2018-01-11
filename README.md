@@ -8,10 +8,8 @@ A collection of more or less interesting write-ups on small things I learn day t
 
 ---
 
-### Devops
-
-- [empty](devops/empty.md)
-
+### Dotnet
+- [Http client should be shared](dotnet/http-client-should-be-shared.md)
 
 ### React
 
