@@ -1,4 +1,4 @@
-#Convention based feature toggle implementaion
+#Convention based feature toggle implementation
 
 Simple feature toggling implementation. Convention based on dervied type name. 
 
