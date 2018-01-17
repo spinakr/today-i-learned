@@ -11,6 +11,7 @@ A collection of more or less interesting write-ups on small things I learn day t
 ### Dotnet
 - [Http client should be shared](dotnet/http-client-should-be-shared.md)
 - [Convention based feature toggle implementaion](dotnet/convention-based-feature-toggle-implementation.md)
+- [Semantic logging with "CallerMemberName"](dotnet/semantic-logging-with-caller-member-name.md)
 
 ### React
 - [Passing all props to child component](react/passing-all-props-to-child-component.md)
