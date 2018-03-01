@@ -13,6 +13,7 @@ A collection of more or less interesting write-ups on small things I learn day t
 - [Convention based feature toggle implementaion](dotnet/convention-based-feature-toggle-implementation.md)
 - [Semantic logging with "CallerMemberName"](dotnet/semantic-logging-with-caller-member-name.md)
 - [new TransactionsScope() harmful when working against SQL server](dotnet/transaction-scope-sql-server-serializable.md)
+- [Connecting Windsor container and owin web api](dotnet/windsor-container-owin-web-api.md)
 
 ### React
 - [Passing all props to child component](react/passing-all-props-to-child-component.md)
