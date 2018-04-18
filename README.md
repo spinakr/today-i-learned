@@ -27,3 +27,7 @@ A collection of more or less interesting write-ups on small things I learn day t
 ### Powershell
 - [Autoloading functions from files divided in directories](powershell/autoload-functions-divided-in-directories.md)
 - [Configurable script with Json config files](powershell/configurable-scripts-with-json.md)
+
+### SQL
+- [Left join vs inner join](SQL/left-join-vs-inner-join.md)
+- [COALESCE keyword](SQL/coalesce-keyword.md)
