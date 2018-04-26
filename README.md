@@ -16,6 +16,7 @@ A collection of more or less interesting write-ups on small things I learn day t
 - [Connecting Windsor container and owin web api](dotnet/windsor-container-owin-web-api.md)
 - [Url re-write rules to co-host api and web app](dotnet/url-re-write-rules-co-host-api-and-app.md)
 - [Save and load timestamp fields as utc](dotnet/save-and-load-timestamp-fields-as-utc.md)
+- [Code Value Classes](dotnet/code-value-classes.md)
 
 ### React
 - [Passing all props to child component](react/passing-all-props-to-child-component.md)
