@@ -8,6 +8,9 @@ A collection of more or less interesting write-ups on small things I learn day t
 
 ---
 
+### Azure Functions
+- [Timer trigger schedule](azure-functions/time-trigger-schedule.md)
+
 ### Dotnet
 - [Http client should be shared](dotnet/http-client-should-be-shared.md)
 - [Convention based feature toggle implementaion](dotnet/convention-based-feature-toggle-implementation.md)
