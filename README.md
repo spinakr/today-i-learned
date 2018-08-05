@@ -21,6 +21,7 @@ A collection of more or less interesting write-ups on small things I learn day t
 - [Save and load timestamp fields as utc](dotnet/save-and-load-timestamp-fields-as-utc.md)
 - [Code Value Classes](dotnet/code-value-classes.md)
 - [NServiceBus multi instance pub/sub](dotnet/nservicebus-multi-instance-pub-sub.md)
+- [Divide list into batches](dotnet/batch-list.md)
 
 ### React
 - [Passing all props to child component](react/passing-all-props-to-child-component.md)
