@@ -31,6 +31,7 @@ A collection of more or less interesting write-ups on small things I learn day t
 ### Git
 - [Re-evaluating gitignore file in repo](git/re-evaluating-gitignore-in-repo.md)
 - [Mergin two repositories while preserving history of both](git/merging-two-repositories-preserving-history.md)
+- [git-check-ignore](git/check-ignore.md)
 
 ### Powershell
 - [Autoloading functions from files divided in directories](powershell/autoload-functions-divided-in-directories.md)
