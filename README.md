@@ -31,6 +31,7 @@ A collection of more or less interesting write-ups on small things I learn day t
 ### React
 - [Passing all props to child component](react/passing-all-props-to-child-component.md)
 - [Access router props using withRouter](react/access-router-props-withrouter.md)
+- [Manipulate DOM of child component](react/react-ref.md)
 
 ### Git
 - [Re-evaluating gitignore file in repo](git/re-evaluating-gitignore-in-repo.md)
