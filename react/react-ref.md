@@ -1,6 +1,6 @@
 # Manipulating child element in the DOM
 
-You can pass a reference to an element (e.g. a <div>), which makes it possible to manipulate the DOM of the child from the containing element.
+You can pass a reference to an element (e.g. a `<div>`), which makes it possible to manipulate the DOM of the child from the containing element.
 
 ```typescript
 ....
